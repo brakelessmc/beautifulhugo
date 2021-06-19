@@ -20,7 +20,7 @@
 - id: previousPost
   translation: "Föregående inlägg"
 - id: nextPost
-  translation: "Föregående inlägg"
+  translation: "Nästa inlägg"
 - id: readTime
   translation: "Minuter"
 - id: words
