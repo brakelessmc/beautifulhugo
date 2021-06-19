@@ -2,7 +2,7 @@
 - id: dateFormat
   translation: "2 January, 2006"
 - id: shortdateFormat
-  translation: "Jan 2, 2006 15:04:05"
+  translation: "2 Jan, 2006 15:04:05"
 - id: postedOnDate
   translation: "Postad den {{ . }}"
 - id: lastModified
@@ -14,22 +14,22 @@
 - id: readMore
   translation: "Läs mer"
 - id: olderPosts
-  translation: "Ældre opslag"
+  translation: "Äldre inlägg"
 - id: newerPosts
-  translation: "Nyere opslag"
+  translation: "Nya Inlägg"
 - id: previousPost
-  translation: "Forrige opslag"
+  translation: "Föregående inlägg"
 - id: nextPost
-  translation: "Næste opslag"
+  translation: "Föregående inlägg"
 - id: readTime
-  translation: "Minutter"
+  translation: "Minuter"
 - id: words
   translation: "Ord"
 
 
 # 404 page
 - id: pageNotFound
-  translation: "Ups, denne side eksisterer ikke. (404 error)"
+  translation: "Oj, den här sidan finns inte. (404 error)"
 
 # Footer
 - id: poweredBy # Accepts HTML
@@ -39,13 +39,13 @@
 - id: toggleNavigation
   translation: "Navigation"
 - id: languageSwitcherLabel
-  translation: "Sprog"
+  translation: "Språk"
 - id: gcseLabelShort
-  translation: "Søg"
+  translation: "Sök"
 - id: gcseLabelLong
-  translation: "Søg {{ .Site.Title }}"
+  translation: "Sök {{ .Site.Title }}"
 - id: gcseClose
-  translation: "Luk"
+  translation: "Stäng"
 
 # Staticman
 - id: noComment
@@ -57,18 +57,18 @@
 - id: useMarkdown
   translation: "Du kan anvende Markdown syntax"
 - id: yourName
-  translation: "Dit navn"
+  translation: "Ditt namn"
 - id: yourEmail
-  translation: "Din emailadresse"
+  translation: "Din emailadress"
 - id: yourWebsite
-  translation: "Din hjemmeside"
+  translation: "Din hemsida"
 
 # Delayed Disqus
 - id: show
-  translation: "Vis"
+  translation: "Visa"
 - id: comments
   translation: "Kommentarer" 
 
 # Related posts
 - id: seeAlso
-  translation: "Se også"
+  translation: "Se också"
