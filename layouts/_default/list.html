@@ -8,7 +8,7 @@
           </div>
         {{ end }}
         <div class="posts-list">
-          {{ range .Paginator.Pages.Reverse }}
+          {{ range .Paginator.Pages }}
             {{ partial "post_preview.html" .}}
           {{ end }}
         </div>
